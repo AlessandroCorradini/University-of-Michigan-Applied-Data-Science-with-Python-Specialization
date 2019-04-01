@@ -3,7 +3,7 @@
 ## Overview
 [Applied Data Science with Python Specialization from University of Michigan](https://www.coursera.org/specializations/data-science-python) is an intermediate level path composed to five courses, all with a practical approach.
 
-This specialization cover:
+This specialization covers:
 - Analyze the connectivity of a social network
 - Conduct an inferential statistical analysis
 - Discern whether a data visualization is good or bad
